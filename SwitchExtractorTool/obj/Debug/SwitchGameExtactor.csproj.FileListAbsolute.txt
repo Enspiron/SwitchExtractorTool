@@ -1,11 +1,15 @@
 D:\Programs\SwitchExtractorTool\SwitchExtractorTool\bin\Debug\SwitchExtractorTool.exe.config
+D:\Programs\SwitchExtractorTool\SwitchExtractorTool\bin\Debug\SwitchExtractorTool.exe.manifest
+D:\Programs\SwitchExtractorTool\SwitchExtractorTool\bin\Debug\SwitchExtractorTool.application
 D:\Programs\SwitchExtractorTool\SwitchExtractorTool\bin\Debug\SwitchExtractorTool.exe
 D:\Programs\SwitchExtractorTool\SwitchExtractorTool\bin\Debug\SwitchExtractorTool.pdb
-D:\Programs\SwitchExtractorTool\SwitchExtractorTool\obj\Debug\SwitchGameExtactor.csprojAssemblyReference.cache
 D:\Programs\SwitchExtractorTool\SwitchExtractorTool\obj\Debug\SwitchExtractorTool.Form1.resources
 D:\Programs\SwitchExtractorTool\SwitchExtractorTool\obj\Debug\SwitchExtractorTool.Extract.resources
 D:\Programs\SwitchExtractorTool\SwitchExtractorTool\obj\Debug\SwitchExtractorTool.Properties.Resources.resources
 D:\Programs\SwitchExtractorTool\SwitchExtractorTool\obj\Debug\SwitchGameExtactor.csproj.GenerateResource.cache
 D:\Programs\SwitchExtractorTool\SwitchExtractorTool\obj\Debug\SwitchGameExtactor.csproj.CoreCompileInputs.cache
+D:\Programs\SwitchExtractorTool\SwitchExtractorTool\obj\Debug\SwitchExtractorTool.exe.manifest
+D:\Programs\SwitchExtractorTool\SwitchExtractorTool\obj\Debug\SwitchExtractorTool.application
 D:\Programs\SwitchExtractorTool\SwitchExtractorTool\obj\Debug\SwitchExtractorTool.exe
 D:\Programs\SwitchExtractorTool\SwitchExtractorTool\obj\Debug\SwitchExtractorTool.pdb
+D:\Programs\SwitchExtractorTool\SwitchExtractorTool\obj\Debug\SwitchGameExtactor.csprojAssemblyReference.cache

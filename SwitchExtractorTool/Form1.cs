@@ -45,7 +45,7 @@ namespace SwitchExtractorTool
         const int SW_HIDE = 0;
         const int SW_SHOW = 5;
 
-        
+        FileHandler fileHandler = new FileHandler();
 
         // Show
         //ShowWindow(handle, SW_SHOW);

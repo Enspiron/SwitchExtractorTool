@@ -44,7 +44,9 @@ namespace SwitchExtractorTool
             }
             if(!File.Exists("keys.dat") || !File.Exists("hactool.exe"))
             {
-                MessageBox.Show("I can't extract anything without hactool.exe or a keys.dat!\n\n Place it in the same directory as this exe.");
+                MessageBox.Show("I can't extract anything without hactool.exe or a keys.dat!\n\n Opening directory of exe");
+                System.Diagnostics.Process.Start(fileHandler.GetExecutingDirectoryName());
+
                 this.Close();
             }
             ExtractB.Text = "Set Paths";
@@ -97,7 +99,6 @@ namespace SwitchExtractorTool
                 }
                 if (ExtractB.Text == "Extract!") 
                 {                  
-                    //console.RunCommand($"hactool -k keys.dat --exefsdir={Out.Text}\\exefs --romfsdir={Out.Text}\\romfs --titlekey={tkey.Text} {FileName.Text}");
                     MessageBox.Show("NCA Extracted!");
                     System.Diagnostics.Process.Start(Out.Text);
                 }

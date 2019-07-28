@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using System.Windows.Forms;
+using System.Reflection;
 
 namespace SwitchExtractorTool
 {
@@ -40,6 +41,11 @@ namespace SwitchExtractorTool
                     return null;
                 }
             }
+        }
+        public string GetExecutingDirectoryName()
+        {
+            var location = new Uri(Assembly.GetEntryAssembly().GetName().CodeBase);
+            return new FileInfo(location.AbsolutePath).Directory.FullName;
         }
     }
 }
