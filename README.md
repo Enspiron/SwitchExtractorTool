@@ -3,8 +3,11 @@
 SwitchExtractorTool allows you to extract dumped Nintendo Switch games so you can datamine them. 
 
 It lets you extract:
+
 -XCIs
+
 -NSPs
+
 -NCAs (both encrypted [from nsp] and unencrypted [from xci])
 
 Keys.dat are illegal files so they are not shared with this program as you will have to provide them yourself.
