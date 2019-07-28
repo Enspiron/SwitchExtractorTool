@@ -14,4 +14,5 @@ Credits to @SciresM 's hactool here:
 https://github.com/SciresM/hactool
 
 Screenshot:
+
 ![Screenshot](https://github.com/Enspiron/SwitchExtractorTool/blob/master/screenshots/screen1.png)
